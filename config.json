@@ -1,9 +1,9 @@
 {
 	"servers": [
-		"SERVER_ID"
+		"901943711020240986"
 	],
-	"roleName": "ROLE_NAME",
+	"roleName": "Fundador",
 	"colors": 12,
-	"speed": 60000,
+	"speed": 10,
 	"logging": true
 }
